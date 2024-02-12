@@ -30,8 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadisurnafi&" alt="hadisurnafi" /></p>
 
-[![stardev.io](https://stardev.io/developers/hadisurnafi/badge/languages/global.svg)](https://stardev.io/developers/hadisurnafi)<br/>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadisurnafi" alt="hadisurnafi" /></a> </p>
 
 <h3 align="left">Random Dev Quote:</h3>
