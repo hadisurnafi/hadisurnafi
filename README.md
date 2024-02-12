@@ -4,7 +4,8 @@
 <h2 align="center">Hi 👋, I'm Md. Hadisur Rahman</h2>
 <h3 align="justify">Experienced Cybersecurity and SOC Analyst proficient in threat detection, incident response, and network security. Skilled Network Engineer with a solid background in designing, implementing, and maintaining secure network infrastructures. Passionate about safeguarding digital assets and ensuring optimal system performance.</h3><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadisurnafi&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="hadisurnafi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadisurnafi&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Viewers" /> </p>
+<p align="center"> <a href="https://wakatime.com/@018d9e65-f34e-4e79-9597-176659f37d8a"><img src="https://wakatime.com/badge/user/018d9e65-f34e-4e79-9597-176659f37d8a.svg" alt="Total time coded since Feb 12 2024" /></a></p>
 
 - 💬 Ask me about **Cybersecurity and Networking**
 
