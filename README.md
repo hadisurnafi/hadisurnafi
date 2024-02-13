@@ -29,7 +29,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadisurnafi&" alt="hadisurnafi" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadisurnafi" alt="hadisurnafi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadisurnafi" alt="hadisurnafi" /></a> </p><br/>
+
+<img width="93.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=hadisurnafi&theme=react-dark)]"/><br/>
+
 
 <h3 align="left">Random Dev Quote:</h3>
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quotes" /></p>
