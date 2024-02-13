@@ -16,7 +16,6 @@
 <a href="https://twitter.com/hadisur_nafi" target="blank"><img align="center" src="https://github.com/hadisurnafi/hadisurnafi/assets/159765715/277fdda6-6eb3-424b-abc9-95fd8e329af4.png" alt="Twitter" height="40" width="40" /></a>
 <a href="https://facebook.com/hadisur.nafi" target="blank"><img align="center" src="https://github.com/hadisurnafi/hadisurnafi/assets/159765715/803bdcdc-7d9e-4f80-b777-a33ceb806a66.png" alt="Facebook" height="40" width="40" /></a>
 <a href="https://wa.me/qr/5EWIRIML57KOH1" target="blank"><img align="center" src="https://github.com/hadisurnafi/hadisurnafi/assets/159765715/9dd81260-297e-4787-924b-fcc78d002df3.png" alt="WhatsApp" height="40" width="40" /></a>
-<a href="https://discord.gg/VQMYEFMq" target="blank"><img align="center" src="https://github.com/hadisurnafi/hadisurnafi/assets/159765715/8867f1ae-499a-4032-a60d-9bd7f67ccdee.png" alt="Discord" height="40" width="40" /></a>
 <a href="https://t.me/Hadisur.Nafi" target="blank"><img align="center" src="https://github.com/hadisurnafi/hadisurnafi/assets/159765715/2800afe4-004c-4b98-976e-42a45379bd09.png" alt="Telegram" height="40" width="40" /></a>
 <a href="mailto:hadisurrahman.cse@gmail.com" target="blank"><img align="center" src="https://github.com/hadisurnafi/hadisurnafi/assets/159765715/8d72e789-d443-48a1-99b1-24466f7db352.png" alt="Email" height="40" width="40" /></a>
 </p><br/>
