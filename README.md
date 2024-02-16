@@ -29,7 +29,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadisurnafi&" alt="hadisurnafi" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadisurnafi" alt="hadisurnafi" /></a> </p><br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadisurnafi" alt="hadisurnafi" /></a> </p>
+
+[](https://github-contributor-stats.vercel.app/api?username=hadisurnafi&limit=5&theme=dracula&combine_all_yearly_contributions=true)<br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hadisurnafi&theme=react-dark)]"/><br/>
 
