@@ -26,21 +26,26 @@
 <h3 align="left">Languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadisurnafi&theme=dracula&show_icons=true&locale=en&layout=compact" alt="hadisurnafi" /></p><br/><br/>
 
+
 <h3 align="left">Contributor Stats:</h3>
 <p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=hadisurnafi&limit=5&theme=dracula&combine_all_yearly_contributions=true"/></p><br/><br/>
+
 
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hadisurnafi&theme=dracula&show_icons=true&locale=en" alt="hadisurnafi" /></p><br/><br/>
 
+
 <h3 align="left">Contributor and Streak:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hadisurnafi&theme=dracula" alt="hadisurnafi" /></p><br/><br/>
 
+
 <h3 align="left">All Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadisurnafi&theme=dracula" alt="hadisurnafi" /></a> </p><br/>
+
 
 <h3 align="left">Contribution Graph:</h3>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hadisurnafi&theme=react-dark"/><br/>
 
 
-<h3 align="left">Random Developer Quote:</h3>trophy
+<h3 align="left">Random Developer Quote:</h3>
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quotes" /></p>
