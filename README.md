@@ -5,6 +5,7 @@
 <h3 align="justify">Experienced Cybersecurity and SOC Analyst proficient in threat detection, incident response, and network security. Skilled Network Engineer with a solid background in designing, implementing, and maintaining secure network infrastructures. Passionate about safeguarding digital assets and ensuring optimal system performance.</h3><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadisurnafi&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Viewers" /> </p>
+<img align="right" alt="coding" width="400" src="https://github.com/hadisurnafi/hadisurnafi/assets/159765715/cfacc67f-e13b-47b5-bce8-bd3bbd77f172.gif">
 
 - 💬 Ask me about **Cybersecurity and Networking**
 
