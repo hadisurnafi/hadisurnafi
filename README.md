@@ -2,7 +2,9 @@
 
 <h1 align="center">🌸 Welcome to My Profile 🌸</h1>
 <h2 align="center">Hi 👋, I'm Md. Hadisur Rahman</h2>
-<h3 align="justify">Experienced Cybersecurity and SOC Analyst proficient in threat detection, incident response, and network security. Skilled Network Engineer with a solid background in designing, implementing, and maintaining secure network infrastructures. Passionate about safeguarding digital assets and ensuring optimal system performance.</h3><br/>
+<h3 align="justify">Experienced IT Officer with a strong background in Computer Science & Engineering (Software Engineering), currently working in the healthcare sector. Skilled in system administration, network management, cybersecurity fundamentals, and IT infrastructure support. Hands-on experience in managing hospital IT systems, troubleshooting hardware & software issues, and ensuring secure, reliable network operations.
+
+Passionate about cybersecurity, network security, and SOC operations, with growing expertise in threat detection, incident response, and secure system design. Strong problem-solving mindset, quick learner, and dedicated to safeguarding digital assets while ensuring high system availability and performance. Actively enhancing skills in information security, digital forensics, and network defense technologies.</h3><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadisurnafi&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Viewers" /> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/hadisurnafi/hadisurnafi/assets/159765715/cfacc67f-e13b-47b5-bce8-bd3bbd77f172.gif">
