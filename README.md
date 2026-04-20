@@ -31,7 +31,7 @@ Passionate about cybersecurity, network security, and SOC operations, with growi
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hadisurnafi" alt="hadisurnafi" /></p><br/><br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadisurnafi" alt="hadisurnafi" /></a> </p><br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadisurnafi&row=2&column=3" /></a> </p><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hadisurnafi"/><br/>
 
